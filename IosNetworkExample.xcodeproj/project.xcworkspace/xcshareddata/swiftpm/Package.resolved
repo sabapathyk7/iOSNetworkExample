@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "networkkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sabapathyk7/NetworkKit.git",
+      "state" : {
+        "revision" : "080793075b709b2734a519b75e80e21bffd60b28",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
