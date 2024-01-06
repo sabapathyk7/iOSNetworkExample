@@ -4,8 +4,7 @@ iOSNetworkExample is a sample iOS application that demonstrates the usage of the
 
 The full Tutorial can be found on [Medium](https://sabapathy7.medium.com/integrate-swift-package-networkkit-and-build-an-ios-application-21df4aa3d878)
 
-<img src= "https://github.com/sabapathyk7/iOSNetworkExample/assets/40764138/bb122350-c5a1-47b2-84fa-8d8ba49d60ac" height = 550> 
-
+Simply add NetworkKit to your project using Swift Package Manager - https://github.com/sabapathyk7/NetworkKit.git 
 
 ## Features
 
